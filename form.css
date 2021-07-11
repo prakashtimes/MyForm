@@ -1,0 +1,75 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(85, 131, 11);
+}
+#name{
+    background: rgba(251, 255, 211, 0.856);
+}
+#email{
+    background: rgba(251, 255, 211, 0.856);
+}
+form{
+    width: 500px;
+    margin: 10px auto;
+    margin-top: 70px;
+    padding: 15px 15px;
+    background: rgb(236, 229, 128);
+    padding-bottom: 55px;
+    border-radius: 20px;
+}
+h1{
+    margin: 6px 0px 4px 16px;
+    font-size: 26px;
+    text-align: center;
+}
+textarea{
+    font-size: 18px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 8px;
+    width: 95%;
+    color: rgb(143, 8, 8);
+    background: rgba(251, 255, 211, 0.856);
+    margin-bottom: 20px;
+}
+fieldset{
+    border: none;
+    margin-bottom: 10px;
+}
+label{ 
+    display: block;
+    margin-bottom: 8px;
+    color: rgb(10, 122, 0);
+    font-weight: bold;
+}
+#clear{
+    padding: 12px 22px 12px 22px;
+    color: rgb(0, 14, 0);
+    background-color: rgba(238, 90, 4, 0.856);
+    font-size: 24px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 20px;
+    margin-left: 19%;
+    margin-right: 5%;
+    width: 30%;
+    border: 1px solid #b14905;
+    border-width: 1px 1px 3px;
+    border-style: none;
+}
+#submit{
+    padding: 12px 22px 12px 22px;
+    color: rgb(255, 244, 92);
+    background-color: rgba(39, 138, 0, 0.856);
+    font-size: 24px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 30%;
+    border: 1px solid #195502;
+    border-width: 1px 1px 3px;
+    border-style: none;
+}
